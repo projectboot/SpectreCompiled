@@ -7,6 +7,8 @@ $ ./spectre
 
 ![Screenshot](spectre.png)
 
+CVE-2017-5754, CVE-2017-5753, CVE-2017-5715, spectre exploit
+
 Patched;
 
 "#define CACHE_HIT_THRESHOLD(80) -> #define CACHE_HIT_THRESHOLD (80)"
